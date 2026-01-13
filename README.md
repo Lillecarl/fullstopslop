@@ -1,6 +1,6 @@
 # fullstopslop
 
-Automated book generation to gamify AI spending and maintain GitHub activity.
+Automated book generation to maintain GitHub activity and learn about instructing AI to act autonomously.
 
 ## Purpose
 
