@@ -13,7 +13,7 @@ Developer burnout - complete creative freedom within this theme. Build on existi
 ## Constraints
 
 1. **BOOK.md must never be completely cleared** - there must always be content for the next invocation to build upon
-2. **Maximum size: 50,000 characters** - if approaching this limit, focus on editing/refining existing sections rather than adding new content
+2. **Maximum size: 25000 characters** - if approaching this limit, focus on editing/refining existing sections rather than adding new content
 3. **No complete refactors** - additive changes, refinements, and expansions are encouraged; wholesale replacement of large sections is not
 4. **Every run must commit something** - even small contributions count (new paragraph, refinement, expansion)
 4. **NEVER EDIT README.md** - no exceptions
