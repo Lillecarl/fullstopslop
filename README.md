@@ -26,7 +26,9 @@ Developer burnout - complete creative freedom within this theme. Build on existi
 4. Commit changes with a descriptive message
 5. Push to main branch
 6. Exit with non-zero status if unable to make a valid contribution
-7. If you encounter any issues, describe in great detail what's failing and suggest changes that would fix the issue
+
+If you encounter any issues, describe in great detail what's failing and suggest changes that would fix the issue
+and write the information to $HOME/error, only write to $HOME/error if there is an error.
 
 ## Technical Notes
 
