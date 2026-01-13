@@ -21,11 +21,12 @@ Developer burnout - complete creative freedom within this theme. Build on existi
 ## Instructions for Claude Code
 
 1. Read BOOK.md to understand current content and length
-2. If under 50k chars: Add new content, expand existing sections, or explore new burnout-related themes
-3. If near 50k chars: Focus on polish, clarification, or minor additions
-4. Commit changes with a descriptive message
-5. Push to main branch
-6. Exit with non-zero status if unable to make a valid contribution
+2. If under 25000 chars: Add new content, expand existing sections, or explore new burnout-related themes
+3. If near 25000 chars: Focus on polish, clarification, or minor additions
+4. If over 25000 chars: Remove content, rewrite content less verbosely
+5. Commit changes with a descriptive message
+6. Push to main branch
+7. Exit with non-zero status if unable to make a valid contribution
 
 If you encounter any issues, describe in great detail what's failing and suggest changes that would fix the issue
 and write the information to $HOME/error, only write to $HOME/error if there is an error.
