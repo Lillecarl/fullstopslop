@@ -40,7 +40,7 @@ Passionate developers are more vulnerable because they push themselves beyond he
 
 Burnout is often treated as individual problem requiring individual solutions. This is like suggesting someone breathe better in a room filling with smoke instead of addressing the fire.
 
-**Antipatterns**: Hero culture (celebrating 80-hour weeks), unlimited PTO (results in less time off), "family" language (guilt-tripping), always-on expectations, understaffing as efficiency.
+**Antipatterns**: Hero culture, unlimited PTO (results in less time off), "family" language, always-on expectations, understaffing.
 
 **What Helps**: Protected focus time, sustainable on-call, realistic planning, clear prioritization, actual downtime, psychological safety.
 
@@ -48,12 +48,7 @@ Burnout is often treated as individual problem requiring individual solutions. T
 
 Recovery requires resources burnout has depleted: energy to make changes, clarity to recognize problems, time to rest, support to ask for help. A week off won't fix burnout if you return to the same conditions.
 
-Real recovery requires:
-1. Acknowledging the problem without shame
-2. Creating distance from the source
-3. Rebuilding capacity gradually
-4. Addressing root causes
-5. Redefining success beyond productivity
+Real recovery requires acknowledging the problem, creating distance, rebuilding capacity gradually, addressing root causes, and redefining success beyond productivity.
 
 ## Chapter 7: The Economic Reality
 
@@ -92,7 +87,7 @@ Recovery isn't linear. After severe burnout, relationships with work fundamental
 
 Burnout can leave lasting effects functioning as disability: reduced stress tolerance, concentration challenges, emotional regulation difficulties, trust issues. These are physiological/psychological injuries, not weakness.
 
-Recovery is becoming someone new—someone who knows their limits and respects them.
+Recovery means becoming someone who knows and respects their limits.
 
 ## Chapter 12: The Impostor Syndrome Accelerator
 
@@ -104,7 +99,7 @@ High-performing developers are especially vulnerable: Early success → rising b
 
 Developer culture amplifies this: GitHub profiles (permanent records), social media (curated wins only), interview culture (artificial pressure), open source pressure.
 
-Breaking the cycle requires normalizing not-knowing, redefining expertise as "knowing how to find answers," having senior developers openly admit uncertainty, separating performance from worth.
+Breaking the cycle requires normalizing uncertainty, redefining expertise as finding answers, and separating performance from worth.
 
 ## Chapter 13: The Optimization Trap
 
@@ -112,7 +107,7 @@ Developers love optimization. Applied to ourselves, it becomes another path to b
 
 Sleep tracking becomes anxiety. Productivity apps become evidence of never doing enough. Morning routines become second jobs. Learning plans become performance metrics.
 
-The N+1 problem: identifying one improvement, then another, then another. Soon you're trying to exercise daily, read 50 books yearly, learn languages, network, side project, mentor, write blogs, contribute to open source, keep up with trends, maintain relationships, cook healthy meals, practice mindfulness. Together, this is insane.
+The N+1 problem: exercise daily, read 50 books yearly, learn languages, network, side project, mentor, write blogs, open source, trending tech, relationships, healthy meals, mindfulness. The sum is insane.
 
 Corporate performance reviews happen quarterly. Internalize this mindset and you're in permanent performance review with yourself: continuous monitoring, arbitrary benchmarks, scope creep, no celebration.
 
@@ -128,13 +123,13 @@ Remote work was supposed to save us from burnout. Instead, it often dissolved th
 
 Remote work collapsed these. Your bedroom is your office. Kitchen is meeting room. Work is always 10 seconds away.
 
-**Timezone trap**: Someone always working somewhere. Standup at 8 AM, core hours 9-5, overlap meetings until 7 PM = 11-hour day without noticing. Asynchronous communication means 24/7 on-call response expectations.
+**Timezone trap**: Someone always online. Standups, core hours, overlaps → 11-hour days. Async communication breeds 24/7 response expectations.
 
 **Performance anxiety**: You're invisible, breeding anxiety. Presence theater emerges: green Slack dots, quick responses, frequent commits. You're performing work for invisible audience.
 
 **Meeting metastasis**: Somehow more meetings, not fewer. "Quick sync" = 30-minute meeting that could be a message. Calendar tetris—eight hours of consecutive 30-minute meetings. Your calendar looks efficient. Your brain is soup.
 
-**Isolation creep**: Professional loneliness. Text lacks nuance. No osmotic learning from overhearing. Junior developers suffer most—no quick desk questions, every question requires formal outreach.
+**Isolation creep**: Professional loneliness. Text lacks nuance. No osmotic learning. Juniors suffer most—every question requires formal outreach.
 
 **Home colonized**: Bedroom as office, household tension, visible domestic labor, no escape.
 
@@ -144,7 +139,7 @@ Breaking the cycle requires: physical boundaries, defending asynchronous time, o
 
 Every process carries a hidden cost—friction tax—that accumulates until meta-work exceeds work itself.
 
-Individual processes seem reasonable: JIRA tracking, Confluence documentation, code review, CI/CD, timesheets, standups, RFCs, planning meetings, logging hours, retrospectives.
+Individual processes seem reasonable: JIRA, Confluence, code review, CI/CD, timesheets, standups, RFCs, planning, retrospectives.
 
 But calculate the actual cost:
 - 1 hour/day on JIRA
@@ -159,7 +154,7 @@ That's roughly **30% of time on meta-work**. For senior engineers, often 50%+.
 
 This causes burnout because: real work gets squeezed (28 hours becomes 10 hours of deep work), blame falls on you (not process), each process seems justified individually, invisible to leadership, speedup paradox (processes meant to improve speed slow everything).
 
-**Meeting multiplier**: A 30-minute meeting requires 15 mins prep, 15 mins context-switching after. You've spent an hour. Scale to 20 people and it's 300 person-minutes daily on status updates.
+**Meeting multiplier**: A 30-minute meeting: 15 mins prep + 15 mins context-switch = 1 hour. Scale to 20 people: 300 person-minutes daily on status updates.
 
 **Unquantifiable costs**: Context switching (23-minute focus loss per interruption), decision fatigue, anxiety about compliance, paper trail burden.
 
@@ -248,13 +243,13 @@ Understanding burnout intellectually is different from navigating it practically
 
 Recovery isn't linear, but it has phases. Expecting resolution in weeks is like expecting a broken leg to heal in days.
 
-**Acute Phase (First 2-4 weeks)**: Immediate crisis. Cognitive function is compromised. Decision-making capacity is minimal. This isn't the phase for strategic planning—it's triage. Actions: remove yourself from highest-pressure situations if possible, establish basic sleep/nutrition/movement, reduce decision complexity.
+**Acute Phase (First 2-4 weeks)**: Crisis mode. Cognition is compromised, decision-making minimal. This is triage, not planning. Remove from pressure, ensure sleep/nutrition/movement, reduce decisions.
 
-**Stabilization Phase (Weeks 4-12)**: Energy begins returning. Clarity emerges about what broke. Temptation to optimize everything. Don't. This phase requires protecting fragile recovery through rest and boundaries. Actions: begin identifying unsustainable patterns, start small experiments with boundaries, rebuild relationships.
+**Stabilization Phase (Weeks 4-12)**: Energy returns, clarity emerges. Resist optimization. Protect fragile recovery through rest and boundaries. Identify unsustainable patterns, experiment with boundaries, rebuild relationships.
 
-**Reconstruction Phase (Months 3-6)**: Cognitive function mostly restored. The gap between your broken self and your former self becomes visible. Grief is normal. This is when real structural changes can happen. Actions: define what worked and what didn't, make conscious choices about what to keep/change, address root causes.
+**Reconstruction Phase (Months 3-6)**: Cognition mostly restored. Grief at the gap between past and present is normal. This is when structural changes happen. Define what worked, choose what to keep/change, address root causes.
 
-**Integration Phase (6+ months)**: The new normal. You're not "back to normal"—you're someone different who learned something essential. Vulnerability but also wisdom. Actions: maintain boundaries fiercely, share knowledge with others, create systems that prevent return.
+**Integration Phase (6+ months)**: The new normal. You're not "back to normal"—you're different, with hard-won wisdom. Maintain fierce boundaries, share knowledge, prevent return.
 
 ### Individual Recovery Framework
 
@@ -264,9 +259,9 @@ Recovery isn't linear, but it has phases. Expecting resolution in weeks is like 
 
 2. **Simplify ruthlessly**. Don't optimize yet—eliminate. Stop reading news, drop side projects, reduce social commitments temporarily. You're in debt; you're paying interest. Simple living buys recovery time.
 
-3. **Rebuild trust with your body**. Burnout creates disassociation: you stop noticing hunger, fatigue, tension until crisis. Practice noticing: Can I focus this hour? What's my energy at? Am I hungry? This takes weeks but is foundational.
+3. **Rebuild trust with your body**. Burnout creates disassociation from hunger, fatigue, tension. Practice noticing: focus level, energy, physical needs. Foundational but takes weeks.
 
-4. **Create discontinuity from work**. Commute equivalents if remote (walk before/after work), change clothes, physical space separation. You need mental transition, not just location change.
+4. **Create discontinuity from work**. Walk before/after work if remote, change clothes, physical separation. Need mental transition, not just location change.
 
 5. **Reconnect with something that doesn't produce**. Not fitness goals (that's optimization). Something genuinely useless: reading fiction, cooking badly, sitting outside, sketching. Burnout often comes from productive people—rest means doing things without outcomes.
 
@@ -274,9 +269,9 @@ Recovery isn't linear, but it has phases. Expecting resolution in weeks is like 
 
 Only after stabilization. Then:
 
-1. **Audit what broke**. Not "everything is bad" but "these specific patterns broke me": open-ended on-call, no code review, constant context switching, unclear priorities. Specific.
+1. **Audit what broke**. Identify specific patterns: open-ended on-call, no code review, constant context switching, unclear priorities.
 
-2. **Define non-negotiables**. These are things you'll quit over: I need code review, I need contiguous focus time, I need to understand priorities, I need manageable on-call. Non-negotiables are shorter than your dreams. They're just survival.
+2. **Define non-negotiables**. Things you'll quit over: code review, contiguous focus time, clear priorities, manageable on-call. Non-negotiables aren't dreams—they're survival.
 
 3. **Test slowly**. One change at a time. Protect focus time for two weeks, measure impact. Remove from Slack for the day, assess. Small experiments before big demands.
 
@@ -292,13 +287,13 @@ Only after stabilization. Then:
 
 2. **Reduce immediate load**. Not in 6 months—immediately. Drop features, extend deadlines, pare commitments. This signals priority is people, not shipping. It costs money short-term; it saves money long-term (through retention and quality).
 
-3. **Restore psychological safety**. Make it safe to say "I'm struggling," "This is unsustainable," "I need help." Then actually respond to those statements with resources, not judgment. One manager saying "this is unsustainable" is worth 100 meditation apps.
+3. **Restore psychological safety**. Make it safe to say "I'm struggling," "This is unsustainable," "I need help." Respond with resources. One manager saying "this is unsustainable" beats 100 meditation apps.
 
 4. **Audit the friction tax**. Inventory meetings, processes, tools. What's actually necessary? What persists through inertia? Cut ruthlessly. Probably 30% of stuff is pure waste.
 
 5. **Protect deep work time**. Block focus time on calendars. Make interruption the exception, not default. For developers specifically: merge windows, clean meetings, async communication where possible.
 
-6. **Repair relationships**. Burned-out teams have eroded trust. Invest in things: team meals (voluntary), retrospectives that feel safe, celebrating small wins. Small things matter because they signal "we see you're hurting and we care."
+6. **Repair relationships**. Burned-out teams erode trust. Invest in things: team meals, safe retrospectives, celebrating small wins. Small gestures signal care.
 
 7. **Distribute work**. If three people carried the load, redistribute. If someone is bottleneck, unblock them or cross-train. Concentration creates fragility.
 
@@ -312,13 +307,13 @@ Only after stabilization. Then:
 
 2. **Align incentives**. If promotions go to workaholics, you'll get overwork. If bonuses depend on delivery regardless of sustainability, you get burnout. Incentives need to reward sustainable work.
 
-3. **Invest in infrastructure**. Tooling, testing infrastructure, monitoring, documentation, automation. These feel expensive until you calculate cost of burnout: replacement costs, knowledge loss, quality debt.
+3. **Invest in infrastructure**. Tooling, testing, monitoring, documentation, automation. Feel expensive until you calculate burnout cost: replacement, knowledge loss, quality debt.
 
 4. **Stop pretending unlimited PTO is generous**. Track actual time off. If it's 15 days/year average, cap it at 15. If it's 5, admit it. Transparency matters.
 
 5. **Protect on-call from becoming unmanageable**. Not every engineer on-call every week. Rotations that feel safe. Postmortems that don't blame. Compensation that reflects cost.
 
-6. **Create leadership accountability**. Hold managers responsible for team health: burnout in your team means you failed at management, not that engineers are weak. This creates real incentive to act.
+6. **Create leadership accountability**. Burnout in your team means you failed at management. Creates real incentive to act.
 
 7. **Stop romanticizing hustle**. Yes, sometimes crunch is necessary. But celebrate crunch as exception: "We crunched for 4 weeks to ship, now we're rebuilding for 8." Not permanent state.
 
@@ -328,26 +323,25 @@ Only after stabilization. Then:
 
 ### Warning Signs and Early Intervention
 
-The cost of catching burnout early is tiny. Cost of allowing it to progress is enormous.
+Catching burnout early is cheap. Allowing it to progress costs enormously.
 
-**Team-level early signs**: Meeting attendance declining, communication quality dropping, suggestions becoming cynical, enthusiasm for projects absent, people defending "low expectations," quality threshold lowering.
+**Early signs**: Declining attendance, poor communication, cynical suggestions, missing enthusiasm, lowered quality thresholds.
 
 **Intervention**: One-on-one conversations, psychological safety repair, load reduction. When caught early, these simple interventions work.
 
-**Later signs**: People quietly job-hunting, institutional knowledge walking out, quality degradation becoming severe, team members having physical health impacts.
+**Later signs**: Silent job hunting, knowledge loss, severe quality degradation, physical health impacts.
 
 **Intervention**: Usually too late. Someone leaves. Now you're behind. Now pressure increases. Now more people leave.
 
 ### The Uncomfortable Economics
 
-Real prevention costs money upfront: better tooling, additional headcount, reduced deliverables, investment in sustainable systems. But the cost of burnout is higher:
+Prevention costs upfront (tooling, headcount, reduced deliverables). Burnout costs more:
+- Replacement: 50-200% salary
+- Knowledge loss
+- Quality debt and incident response
+- Team demoralization spreads
 
-- Replacing a burned-out developer costs 50-200% of their salary (recruiter, training, lost productivity)
-- Knowledge walking out the door is unquantifiable but severe
-- Reduced code quality means more bugs, more incident response, more cost
-- Team demoralization spreads; others leave
-
-Organizations keep choosing to accept burnout cost because it's diffuse and delayed. One person leaving isn't catastrophic. But patterns are. By the time patterns are visible, half the team has left.
+Organizations accept burnout because costs are diffuse. One departure isn't catastrophic. But by the time patterns show, half the team has left.
 
 ### Recovery Is Possible
 
