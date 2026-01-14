@@ -8,9 +8,9 @@ When we ask if burnout is "real" or just laziness, we're already operating withi
 
 ## Chapter 2: The Architecture of Exhaustion
 
-Burnout operates as a negative feedback loop: Initial Pressure → Compensatory Behavior (longer hours) → Diminished Recovery → Degraded Performance → Increased Pressure. This is a system failure, not laziness.
+Burnout operates as a negative feedback loop: Pressure → Longer Hours → Diminished Recovery → Degraded Performance → More Pressure. System failure, not laziness.
 
-Research shows it takes 23 minutes to regain focus after interruption. For developers: each Slack message is a 23-minute productivity hit. On-call creates persistent anxiety that prevents deep rest. When constantly interrupted, you're neither working nor resting—in perpetual partial attention that exhausts without producing quality work.
+Research shows 23 minutes to regain focus after interruption. Each Slack message costs 23 minutes of productivity. On-call creates anxiety preventing deep rest. Constant interruption means neither working nor resting—perpetual partial attention that exhausts without producing quality work.
 
 ## Chapter 3: The Myth of the Passionate Developer
 
@@ -28,13 +28,13 @@ Passionate developers are more vulnerable because they push themselves beyond he
 
 ## Chapter 4: The Invisible Symptoms
 
-**Cognitive**: Difficulty with automatic decisions, reading same line multiple times, forgetting conversations, inability to estimate complexity.
+**Cognitive**: Difficulty with decisions, reading lines repeatedly, forgetting conversations, estimation failure.
 
-**Emotional**: Cynicism about projects that excited you, irritability with colleagues, emotional flatness, Sunday dread, emptiness.
+**Emotional**: Cynicism about past passions, irritability, flatness, dread, emptiness.
 
-**Physical**: Tension headaches, disrupted sleep, digestive issues, frequent illness, persistent muscle tension.
+**Physical**: Headaches, disrupted sleep, digestive issues, frequent illness, muscle tension.
 
-**Behavioral**: Procrastination, withdrawal from discussions, increased substance reliance, neglecting personal projects.
+**Behavioral**: Procrastination, withdrawal, substance reliance, neglecting projects.
 
 ## Chapter 5: The Organization's Role
 
@@ -46,9 +46,9 @@ Burnout is often treated as individual problem requiring individual solutions. T
 
 ## Chapter 6: The Recovery Paradox
 
-Recovery requires resources burnout has depleted: energy to make changes, clarity to recognize problems, time to rest, support to ask for help. A week off won't fix burnout if you return to the same conditions.
+Recovery requires resources burnout depletes: energy, clarity, time, support. A week off won't fix burnout returning to same conditions.
 
-Real recovery requires acknowledging the problem, creating distance, rebuilding capacity gradually, addressing root causes, and redefining success beyond productivity.
+Real recovery requires acknowledging the problem, creating distance, rebuilding capacity, addressing root causes, redefining success beyond productivity.
 
 ## Chapter 7: The Economic Reality
 
@@ -58,7 +58,7 @@ Burnout often traps people because they lack resources to leave safely.
 
 ## Chapter 8: The Code Never Sleeps
 
-Tech has unique burnout factors: perpetual learning required to stay relevant, debugging abstractions you didn't build, invisible infrastructure work, global distributed teams (someone always online), imposter phenomenon (everyone feels like faking it).
+Tech has unique factors: perpetual learning, debugging unfamiliar abstractions, invisible infrastructure work, global teams (someone always online), imposter phenomenon, universal sense of faking it.
 
 ## Chapter 9: Technical Debt as Emotional Debt
 
@@ -78,42 +78,40 @@ When organizations eliminate sustainable practices under pressure, they create a
 
 ## Chapter 11: Burnout After Burnout
 
-Recovery isn't linear. After severe burnout, relationships with work fundamentally shift:
+Recovery isn't linear. After severe burnout, relationships shift:
 
-- Permanent skepticism about employer rhetoric
-- Heightened sensitivity to warning signs
-- Boundary rigidity (what some call "quiet quitting," others call "remembering you're human")
-- Loss of career ambition
+- Permanent skepticism about rhetoric
+- Heightened warning sensitivity
+- Boundary rigidity (quiet quitting = remembering you're human)
+- Loss of ambition
 
-Burnout can leave lasting effects functioning as disability: reduced stress tolerance, concentration challenges, emotional regulation difficulties, trust issues. These are physiological/psychological injuries, not weakness.
-
-Recovery means becoming someone who knows and respects their limits.
+Burnout leaves lasting effects like disability: reduced stress tolerance, concentration challenges, regulation difficulties, trust issues. These are injuries, not weakness. Recovery means respecting your limits.
 
 ## Chapter 12: The Impostor Syndrome Accelerator
 
-Burnout and impostor syndrome form a vicious cycle. Software has unique characteristics: knowledge required is practically infinite, constantly expanding. This creates permanent inadequacy feeling.
+Burnout and impostor syndrome form a vicious cycle. Software requires practically infinite knowledge, constantly expanding. This creates permanent inadequacy.
 
-As burnout progresses, cognitive capacity decreases. But from inside, this feels indistinguishable from losing skills: forgetting syntax, slower processing, reduced risk-taking, increased errors.
+As burnout progresses, cognition decreases, feeling like losing skills: forgotten syntax, slower processing, reduced risk-taking, errors.
 
-High-performing developers are especially vulnerable: Early success → rising bar → hidden struggle → secret fear → burnout → performance drop → "proof" of fraud.
+High performers are vulnerable: Early success → rising bar → hidden struggle → secret fear → burnout → "proof" of fraud.
 
-Developer culture amplifies this: GitHub profiles (permanent records), social media (curated wins only), interview culture (artificial pressure), open source pressure.
+Developer culture amplifies this through permanent records (GitHub), curated wins, interview pressure, open source expectations.
 
-Breaking the cycle requires normalizing uncertainty, redefining expertise as finding answers, and separating performance from worth.
+Breaking the cycle requires normalizing uncertainty, redefining expertise as finding answers, separating performance from worth.
 
 ## Chapter 13: The Optimization Trap
 
-Developers love optimization. Applied to ourselves, it becomes another path to burnout.
+Developers love optimization. Applied to ourselves, it becomes burnout.
 
-Sleep tracking becomes anxiety. Productivity apps become evidence of never doing enough. Morning routines become second jobs. Learning plans become performance metrics.
+Sleep tracking becomes anxiety. Productivity apps become evidence of never doing enough. Morning routines become jobs. Learning plans become metrics.
 
-The N+1 problem: exercise daily, read 50 books yearly, learn languages, network, side project, mentor, write blogs, open source, trending tech, relationships, healthy meals, mindfulness. The sum is insane.
+The N+1 problem: exercise daily, read 50 books yearly, learn languages, network, side project, mentor, blogs, open source, trending tech, relationships, meals, mindfulness. The sum is insane.
 
-Corporate performance reviews happen quarterly. Internalize this mindset and you're in permanent performance review with yourself: continuous monitoring, arbitrary benchmarks, scope creep, no celebration.
+Internalize quarterly performance review mindset and you're in permanent self-review: continuous monitoring, arbitrary benchmarks, scope creep, no celebration.
 
-Real humans need wasted time, inefficiency, suboptimal choices, slack. When you've eliminated all slack, you're running just-in-time manufacturing with no buffer. First unexpected demand crashes the system.
+Humans need wasted time, inefficiency, slack. Eliminate all slack and you're running just-in-time with no buffer. First unexpected demand crashes the system.
 
-Breaking the trap means: practicing strategic incompetence, defending dead time, questioning metrics, embracing seasons, rejecting potential as standard.
+Breaking the trap: practice strategic incompetence, defend dead time, question metrics, embrace seasons, reject potential as standard.
 
 ## Chapter 14: The Remote Work Paradox
 
@@ -137,48 +135,23 @@ Breaking the cycle requires: physical boundaries, defending asynchronous time, o
 
 ## Chapter 15: The Friction Tax
 
-Every process carries a hidden cost—friction tax—that accumulates until meta-work exceeds work itself.
+Every process carries hidden cost. Individual items seem reasonable: JIRA, code review, standups, RFCs. Combined, they consume 30% of working time; for senior engineers, often 50%+.
 
-Individual processes seem reasonable: JIRA, Confluence, code review, CI/CD, timesheets, standups, RFCs, planning, retrospectives.
+Real work gets squeezed (28 hours becomes 10 hours of deep work). Blame falls on you, not process. Each item appears justified individually but invisible to leadership. Processes meant to improve speed often slow everything.
 
-But calculate the actual cost:
-- 1 hour/day on JIRA
-- 30 mins/day in meetings about work (not doing work)
-- 1 hour/week documentation
-- 1 hour/week code review
-- 2 hours/week meetings
-- 1 hour/month reviews
-- 2 hours/month overhead
+A 30-minute meeting: 15 mins prep + 15 mins context-switch = 1 hour. Scale to 20 people: 300 person-minutes daily lost to status updates.
 
-That's roughly **30% of time on meta-work**. For senior engineers, often 50%+.
+Organizations add process through uncertainty aversion, risk mitigation, visibility theater. The Peter Principle of Process: removal requires proof; addition requires none.
 
-This causes burnout because: real work gets squeezed (28 hours becomes 10 hours of deep work), blame falls on you (not process), each process seems justified individually, invisible to leadership, speedup paradox (processes meant to improve speed slow everything).
-
-**Meeting multiplier**: A 30-minute meeting: 15 mins prep + 15 mins context-switch = 1 hour. Scale to 20 people: 300 person-minutes daily on status updates.
-
-**Unquantifiable costs**: Context switching (23-minute focus loss per interruption), decision fatigue, anxiety about compliance, paper trail burden.
-
-Organizations add process because: uncertainty aversion (illusion of control), risk mitigation (rules around worst cases constrain normal cases), visibility theater, blame avoidance.
-
-The Peter Principle of Process: processes get removed less easily than added. Burden of proof should be on keeping, not removing.
-
-Breaking accumulation: audit overhead, prune ruthlessly, question defaults, protect deep work, push back on creep, measure what matters.
+Solutions: audit overhead ruthlessly, question defaults, protect deep work, push back on creep, measure what matters.
 
 ## Conclusion: Burnout is a Signal
 
-Developer burnout isn't laziness, weakness, or character flaw. It's a signal that something is broken.
+Developer burnout isn't laziness, weakness, or character flaw. It's a signal something is broken.
 
-When your smoke detector goes off, you don't remove the battery. You address the fire.
+When your smoke detector goes off, you address the fire. You don't remove the battery.
 
-**Patterns throughout this book**:
-
-First, burnout is systemic, not individual. Telling someone to "meditate more" while drowning in process overhead is like suggesting better breathing to someone trapped under a building.
-
-Second, burnout is normalized. 80-hour weeks are celebrated, not warnings. Yet they're unsustainable.
-
-Third, burnout compounds. The feedback loops are self-reinforcing. Burnout causes mistakes → increases pressure → deepens burnout. It destroys protective practices → degrades systems → increases pressure further.
-
-Fourth, solutions are collective, not individual. You cannot optimize yourself out of broken systems.
+**Key patterns**: Burnout is systemic, not individual. It's normalized—80-hour weeks celebrated, not questioned. It compounds—mistakes increase pressure, which deepens burnout. Solutions are collective, not individual. You cannot optimize yourself out of broken systems.
 
 **For individuals experiencing burnout**:
 
@@ -369,4 +342,34 @@ Mentorship is framed as pure good—helping junior developers, investing in tale
 
 **Growth expectations**: "There's unlimited learning opportunity here!" means "you're responsible for staying current." Expectation to master emerging tech, attend conferences, read papers, contribute to open source—all added to day job. Growth becomes another permission structure for overwork.
 
-**Knowledge transfer without succession**: Teaching creates single points of failure. When person leaves, knowledge vanishes unless it was documented and explicitly handed over. This creates retention through fear, not belonging. Meanwhile, the person stays because nobody else knows how systems work, creating learned helplessness.
+**Knowledge transfer without succession**: Teaching creates single points of failure. When person leaves, knowledge vanishes unless documented and handed over explicitly. This creates retention through fear, not belonging. The person stays because nobody else knows the systems, creating learned helplessness.
+
+**Mentorship as performance pressure**: Junior developers want to be mentored. This is healthy. But when mentorship becomes uncompensated labor for seniors, it's extractive. "You're good at explaining—mentor this person" without adjusting workload or recognition becomes another way to extract value from high performers.
+
+**Breaking the mentorship trap**:
+
+1. **Make mentorship explicit and bounded**. If someone mentors, allocate time: "4 hours/week mentorship, 36 hours/week feature work." Make it visible, make it matter in evaluations.
+
+2. **Systematize knowledge transfer**. Documentation, runbooks, architecture decision records. Mentorship works better when it complements documentation, not replaces it.
+
+3. **Rotate mentorship duties**. Not always the same senior person. Spread knowledge, reduce burnout concentration.
+
+4. **Separate growth from overwork**. "Lots of learning opportunity" shouldn't mean "work harder." Growth time is work time. Conference attendance is work time. It's not added opportunity—it's part of the role.
+
+5. **For juniors**: You don't owe constant productivity. You're learning. That learning is valuable and should take time. Question any environment treating learning as overflow work.
+
+**The uncomfortable reality**: Some organizations use mentorship language to avoid developing systems and processes. They prefer people-dependent knowledge. When the senior mentor leaves, they realize too late that knowledge went with them. Build systems that don't require heroes.
+
+Mentorship *can* be generative—genuinely helping people grow while building healthy culture. But it requires structure, recognition, and boundaries. Without these, it's just another way burnout spreads from senior to junior developers.
+
+## Afterword: Burnout is a Choice
+
+This book argues burnout isn't inevitable—it's choices by individuals, teams, organizations.
+
+Not comforting if burning out now. But important: if burnout is a choice, non-burnout is also a choice.
+
+Some organizations choose extraction over sustainability. Some teams optimize for velocity over wellbeing. The trap is believing this universal. It's not.
+
+Sustainable organizations exist. Healthy teams exist. Non-burned developers exist.
+
+The question isn't "is burnout real?" It's "what are we willing to change to make it unnecessary?"
