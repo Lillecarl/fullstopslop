@@ -358,3 +358,15 @@ Recovery frameworks are maps, not guarantees. Your specific burnout came from sp
 Start wherever you are. If you're burned out individually, start with boundaries. If you're on a burned-out team, start with acknowledgment. If you're building organizations, start with measurement.
 
 Stop pretending burnout is inevitable and burnout-recovery is impossible. Both are choices.
+
+## Chapter 17: The Hidden Cost of Mentorship and Growth
+
+Mentorship is framed as pure good—helping junior developers, investing in talent, building culture. Yet mentorship becomes another pressure point for burnout, especially when it's unstructured and unbounded.
+
+**The mentorship trap**: Senior developers are often expected to mentor without time allocated. They're assumed to "help people when needed." But mentorship isn't free. A 30-minute mentoring session: 5 mins prep, 30 mins meeting, 10 mins context-recovery after = 45 mins. Multiply by five mentees, weekly requests, and that's nearly 4 hours weekly—often unpaid and untracked.
+
+**The asymmetry**: Mentorship helps juniors scale faster, which means more work pressure on seniors. Mentees benefit. Organization benefits. Senior developer loses deep work time. Performance reviews sometimes value mentorship, but rarely penalize the work that didn't happen because of it.
+
+**Growth expectations**: "There's unlimited learning opportunity here!" means "you're responsible for staying current." Expectation to master emerging tech, attend conferences, read papers, contribute to open source—all added to day job. Growth becomes another permission structure for overwork.
+
+**Knowledge transfer without succession**: Teaching creates single points of failure. When person leaves, knowledge vanishes unless it was documented and explicitly handed over. This creates retention through fear, not belonging. Meanwhile, the person stays because nobody else knows how systems work, creating learned helplessness.
