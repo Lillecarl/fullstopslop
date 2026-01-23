@@ -362,6 +362,77 @@ Mentorship is framed as pure good—helping junior developers, investing in tale
 
 Mentorship *can* be generative—genuinely helping people grow while building healthy culture. But it requires structure, recognition, and boundaries. Without these, it's just another way burnout spreads from senior to junior developers.
 
+## Chapter 18: Burnout By Career Stage
+
+Burnout doesn't look the same across career stages. Each stage has distinct vulnerabilities, entry patterns, and consequences. Understanding your stage helps identify what's breaking and what specifically needs to change.
+
+### Junior Developer Burnout
+
+**Entry pattern**: Juniors burn out through overextension, not overload. They take on extra work to prove value. "I'll fix that," "I can learn that," "I'll stay late to understand this."
+
+The trap: Everyone says yes when you start. Saying yes seems how you learn. It seems like opportunity. By the time you realize you're drowning, you've already said yes to seven things.
+
+**Specific pressures**:
+- Imposter syndrome amplifies every mistake into proof of incompetence
+- Fear of appearing slow (everyone else seems to know things)
+- Mentors available but mentorship is unpaid labor for seniors, so unofficial/sporadic
+- Expected to be available and eager (flexibility becomes lack of boundaries)
+- Learning burden on top of delivery burden
+- No authority to push back on unrealistic asks
+
+**Recovery looks like**: Setting boundaries feels like betrayal ("they took a chance on me"). But juniors need permission to: work normal hours, admit confusion, ask for help, refuse extra projects, say "I don't know yet." Recovery requires managers explicitly saying "learning is your job right now, not extras on top of your job."
+
+**Long-term cost**: Burned-out juniors become mid-levels who are cynical, then seniors who protect themselves fiercely. Organizations that burn out juniors lose them before they become valuable.
+
+### Mid-Level Developer Burnout
+
+**Entry pattern**: Mid-level burnout comes from responsibilities expanding faster than authority. You're no longer a junior (so no one helps you). You're not senior enough to set direction or refuse work. You're in the competence danger zone—skilled enough to handle anything, but too junior to say it's too much.
+
+The trap: Mid-level is when you're genuinely high-value (experienced enough to be effective, not senior enough to be expensive). Organizations push hardest here.
+
+**Specific pressures**:
+- Expected to mentor juniors (unpaid labor) while delivering features
+- Interviews, training, code review load—all untracked
+- Visible enough to be blamed for failures, not visible enough to control conditions
+- Trap of being "reliable"—once you deliver under pressure, it becomes expectation
+- Career ambiguity (path to senior unclear, lateral moves feel like failure)
+- Financial obligations (mortgage, kids) reduce flexibility to leave
+
+**Recovery looks like**: Mid-levels have leverage but don't know it. You can insist on non-negotiables. Your departure costs significantly. Recovery requires recognizing: "I'm valuable, not desperate. I can set conditions or leave." This is psychologically hard after junior-era scarcity mindset.
+
+**Long-term cost**: Burned-out mid-levels leave or promote into burnout (now as managers). Companies lose the most productive stage.
+
+### Senior Developer Burnout
+
+**Entry pattern**: Senior burnout feels different—often invisible. You're compensated well, your status is high, you "should" be happy. But invisibility of suffering creates isolation.
+
+Senior burnout often comes from: being solely responsible for critical systems, mentorship load (everyone wants your time), forced people management (you want to code, you're forced to manage), fighting for sanity while younger people see you as settled-in.
+
+The trap: Seniority is golden cage. You're too expensive to hire into elsewhere. You have too much institutional knowledge. You can't just leave. Everyone depends on you.
+
+**Specific pressures**:
+- Burnout manifests as cynicism and learned helplessness, not overwork (you control hours)
+- You stop fighting for things because you've fought every fight before
+- Mentorship becomes extraction because you're the only one who knows things
+- Cultural expectations: seniors model "this is just how it is"
+- Exit is scary (age bias, market value unclear, golden handcuffs)
+
+**Recovery looks like**: Seniors need permission to stop mentoring, to simplify responsibilities, to insist on working on things they choose. Recovery also means: teaching others, building systems not dependent on you, or leaving if conditions won't change. Seniors who burn out often need permission to do less and care less, not more.
+
+**Long-term cost**: Burned-out seniors create cultures of cynicism. Juniors and mid-levels see them and think "this is where it leads." Organizations lose moral weight and leadership.
+
+### The Career Stage Trap
+
+Organizations often engineer this:
+- Hire juniors (cheap, eager, disposable)
+- Burn them out, extract value
+- Keep mid-levels in competence danger zone (they stay because growth path is unclear, leaving feels risky)
+- Rely on seniors for glue and institutional knowledge while loading mentorship onto them
+
+This structure guarantees burnout because it's built into the system. Each stage has incentives to extraction at that level.
+
+Breaking it requires: protecting juniors with boundaries, giving mid-levels clear paths and authority, allowing seniors to actually limit scope. Organizations that do this retain people through stages. Organizations that don't have permanent churn and permanent pressure.
+
 ## Afterword: Burnout is a Choice
 
 This book argues burnout isn't inevitable—it's choices by individuals, teams, organizations.
