@@ -433,6 +433,52 @@ This structure guarantees burnout because it's built into the system. Each stage
 
 Breaking it requires: protecting juniors with boundaries, giving mid-levels clear paths and authority, allowing seniors to actually limit scope. Organizations that do this retain people through stages. Organizations that don't have permanent churn and permanent pressure.
 
+## Chapter 19: The Specialization-Generalism Burnout Trap
+
+Modern tech creates a peculiar bind: be a specialist in one area, you become a bottleneck; be a generalist, you're forever learning and never expert.
+
+**The specialist path**: Deep expertise in one domain—systems engineering, security, databases—creates value. You become the person. But "the person" means:
+- All problems in that domain route to you
+- You can't take vacation (system breaks without you)
+- Your value and identity fuse
+- You're anxious about becoming irrelevant in a fast-moving field
+- You're responsible for mentoring others in your domain (another unpaid load)
+
+Specialists often burn out from bottleneck status, not overwork. The work might be manageable hours, but the *responsibility weight* is crushing. You feel held hostage by institutional knowledge.
+
+**The generalist path**: Accepting that you need to handle any problem—frontend, backend, DevOps, databases, mobile. The burnout comes from:
+- Perpetual inadequacy (you're never expert in anything)
+- Constant learning (new frameworks, new tools, shifting paradigms)
+- No depth to retreat to
+- Imposter syndrome amplified (you're 6 months away from competence in six different areas)
+- Unclear what "good" even looks like when you're learning constantly
+
+Generalists often burn out from perpetual incompleteness—the work is never "done" because you're always climbing learning curves.
+
+**The middle way (usually worst)**: Organizations expect specialists to generalize and generalists to specialize. You need to be the database expert *and* frontend capable *and* ready to jump into unfamiliar code. This creates oscillating pressure: specialize in your area (maintain expertise, become bottleneck) or generalize (maintain irrelevance, maintain anxiety).
+
+**Why this matters**: The career stage chapters discuss junior-to-senior trajectories, but specialization-generalism is orthogonal. You can be a specialized junior (deep backend focus) or generalist senior (can work anywhere). Each combination has different burnout triggers.
+
+A senior specialist is uniquely vulnerable: high status, deep expertise, irreplaceable, and the organization knows it. They burn out not from being pushed hard, but from knowing they can't leave.
+
+A junior generalist is learning too many things and failing in all of them. They burn out thinking this is normal, that everyone feels this lost.
+
+**Breaking the trap**:
+
+1. **Make role expectations explicit**. Is this role specialist or generalist? Both? For how long? Not "this person should know everything"—"this person specializes in X, supports Y, growing in Z." Clear lanes reduce anxiety.
+
+2. **Protect specialists from pure bottleneck status**. If one person is irreplaceable, that's a failure. Invest in cross-training. Have a specialist do *some* mentoring, but not all. Create documented runbooks. Specialists shouldn't carry rescue-hero burden alone.
+
+3. **For generalists, create areas of ownership**. Even in generalist roles, people need depth somewhere. Let developers pick a domain they're responsible for. Depth and breadth both matter; just not equally in all areas.
+
+4. **Stop treating specialization as career limitation**. "You need to generalize to advance" is common lie. Some people advance by deepening expertise. Some become distinguished engineers by being world-class in one domain. Career paths should include both.
+
+5. **For specialists considering generalization**: Recognize that deepening expertise *is* career growth. You don't have to become full-stack to matter.
+
+6. **For generalists seeking stability**: Find a domain to anchor in. Not total specialization—but an area where you have enough depth to stop feeling lost.
+
+The tension between specialization and generalism is real and legitimate. Organizations that pretend it doesn't exist create burnout by forcing false choices. Good organizations let people choose where they want depth and where they're comfortable being broad.
+
 ## Afterword: Burnout is a Choice
 
 This book argues burnout isn't inevitable—it's choices by individuals, teams, organizations.
