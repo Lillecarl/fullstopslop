@@ -216,95 +216,95 @@ Understanding burnout intellectually is different from navigating it practically
 
 Recovery isn't linear, but it has phases. Expecting resolution in weeks is like expecting a broken leg to heal in days.
 
-**Acute Phase (First 2-4 weeks)**: Crisis mode. Cognition is compromised, decision-making minimal. This is triage, not planning. Remove from pressure, ensure sleep/nutrition/movement, reduce decisions.
+**Acute Phase (First 2-4 weeks)**: Crisis mode. Remove from pressure, ensure sleep/nutrition/movement. Triage, not planning.
 
-**Stabilization Phase (Weeks 4-12)**: Energy returns, clarity emerges. Resist optimization. Protect fragile recovery through rest and boundaries. Identify unsustainable patterns, experiment with boundaries, rebuild relationships.
+**Stabilization Phase (Weeks 4-12)**: Energy returns, clarity emerges. Protect fragile recovery through rest and boundaries. Identify unsustainable patterns, experiment with boundaries.
 
-**Reconstruction Phase (Months 3-6)**: Cognition mostly restored. Grief at the gap between past and present is normal. This is when structural changes happen. Define what worked, choose what to keep/change, address root causes.
+**Reconstruction Phase (Months 3-6)**: Cognition mostly restored. Structural changes happen: define what worked, choose what to keep/change, address root causes.
 
-**Integration Phase (6+ months)**: The new normal. You're not "back to normal"—you're different, with hard-won wisdom. Maintain fierce boundaries, share knowledge, prevent return.
+**Integration Phase (6+ months)**: The new normal. Maintain fierce boundaries, share knowledge, prevent return.
 
 ### Individual Recovery Framework
 
 **For immediate burnout**:
 
-1. **Establish boundaries, not balance**. Balance implies equal effort. Burned-out people need asymmetry: work gets minimum required; rest gets protected. Boundaries are non-negotiable: I don't respond to messages 6PM-8AM, I don't work weekends except true emergencies, I don't read work email on vacation.
+1. **Establish boundaries, not balance**. Work gets minimum required; rest gets protected. Non-negotiable: no messages 6PM-8AM, no weekends except true emergencies, no work email on vacation.
 
-2. **Simplify ruthlessly**. Don't optimize yet—eliminate. Stop reading news, drop side projects, reduce social commitments temporarily. You're in debt; you're paying interest. Simple living buys recovery time.
+2. **Simplify ruthlessly**. Eliminate, don't optimize yet. Drop news, side projects, social commitments. Simple living buys recovery time.
 
-3. **Rebuild trust with your body**. Burnout creates disassociation from hunger, fatigue, tension. Practice noticing: focus level, energy, physical needs. Foundational but takes weeks.
+3. **Rebuild trust with your body**. Practice noticing: focus level, energy, physical needs. Burnout creates disassociation; this is foundational.
 
-4. **Create discontinuity from work**. Walk before/after work if remote, change clothes, physical separation. Need mental transition, not just location change.
+4. **Create discontinuity from work**. Walk before/after, change clothes, physical separation. Need mental transition.
 
-5. **Reconnect with something that doesn't produce**. Not fitness goals (that's optimization). Something genuinely useless: reading fiction, cooking badly, sitting outside, sketching. Burnout often comes from productive people—rest means doing things without outcomes.
+5. **Reconnect with something unproductive**. Not fitness goals. Reading fiction, sitting outside, sketching—things without outcomes. Rest means doing things that produce nothing.
 
 **For re-engagement with work**:
 
-Only after stabilization. Then:
+Only after stabilization:
 
 1. **Audit what broke**. Identify specific patterns: open-ended on-call, no code review, constant context switching, unclear priorities.
 
-2. **Define non-negotiables**. Things you'll quit over: code review, contiguous focus time, clear priorities, manageable on-call. Non-negotiables aren't dreams—they're survival.
+2. **Define non-negotiables**. Things you'll quit over: code review, focus time, clear priorities, manageable on-call. Non-negotiables are survival, not dreams.
 
-3. **Test slowly**. One change at a time. Protect focus time for two weeks, measure impact. Remove from Slack for the day, assess. Small experiments before big demands.
+3. **Test slowly**. One change at a time. Small experiments before big demands.
 
-4. **Build margin**. If you worked 60-hour weeks, don't jump to 40. Jump to 45. If you worked 5 days, don't commit to 5. Margin prevents relapse.
+4. **Build margin**. If you worked 60-hour weeks, jump to 45. Margin prevents relapse.
 
-5. **Change something structural if possible**. Same job, same team, same conditions won't work. Different team, different role, different company, different title—something has to change. It can be small, but something.
+5. **Change something structural**. Same conditions won't work. Different team, role, or company—something must change.
 
 ### Team Recovery Framework
 
 **For a burned-out team**:
 
-1. **Acknowledge the system is broken, not the people**. This is prerequisite. Burnout isn't incompetence. Say it. Repeatedly. Let people grieve.
+1. **Acknowledge the system is broken**. Burnout isn't incompetence. Say it. Repeatedly.
 
-2. **Reduce immediate load**. Not in 6 months—immediately. Drop features, extend deadlines, pare commitments. This signals priority is people, not shipping. It costs money short-term; it saves money long-term (through retention and quality).
+2. **Reduce immediate load**. Drop features, extend deadlines, pare commitments immediately. It signals people matter. It costs short-term; it saves long-term.
 
-3. **Restore psychological safety**. Make it safe to say "I'm struggling," "This is unsustainable," "I need help." Respond with resources. One manager saying "this is unsustainable" beats 100 meditation apps.
+3. **Restore psychological safety**. Make it safe to say "I'm struggling," "This is unsustainable," "I need help." One manager saying "this is unsustainable" beats 100 apps.
 
-4. **Audit the friction tax**. Inventory meetings, processes, tools. What's actually necessary? What persists through inertia? Cut ruthlessly. Probably 30% of stuff is pure waste.
+4. **Audit the friction tax**. Inventory meetings, processes, tools. What's necessary? Cut ruthlessly. Probably 30% is waste.
 
-5. **Protect deep work time**. Block focus time on calendars. Make interruption the exception, not default. For developers specifically: merge windows, clean meetings, async communication where possible.
+5. **Protect deep work time**. Block focus time on calendars. Make interruption exception, not default. For developers: merge windows, async communication.
 
-6. **Repair relationships**. Burned-out teams erode trust. Invest in things: team meals, safe retrospectives, celebrating small wins. Small gestures signal care.
+6. **Repair relationships**. Invest in team meals, retrospectives, celebrating wins. Small gestures signal care.
 
-7. **Distribute work**. If three people carried the load, redistribute. If someone is bottleneck, unblock them or cross-train. Concentration creates fragility.
+7. **Distribute work**. Redistribute load. Unblock bottlenecks. Cross-train. Concentration creates fragility.
 
-8. **Track and communicate change**. People are skeptical. Show what you did: "We cut 15% of meetings," "We hired two engineers," "On-call is now sustainable." Make invisible work visible.
+8. **Communicate change**. Show what you did: "We cut 15% of meetings," "On-call is sustainable." Make invisible work visible.
 
 ### Organizational Recovery Framework
 
 **For organizations systemically creating burnout**:
 
-1. **Measure what matters**. Not hours worked, not commits per day, not tickets closed. Measure: retention, code quality, incident rates, team health scores. What you measure gets optimized; measure the right things.
+1. **Measure what matters**. Not hours, not commits, not tickets. Measure retention, code quality, incident rates, team health. What you measure gets optimized.
 
-2. **Align incentives**. If promotions go to workaholics, you'll get overwork. If bonuses depend on delivery regardless of sustainability, you get burnout. Incentives need to reward sustainable work.
+2. **Align incentives**. Promotions for workaholics create overwork. Bonuses for unsustainable delivery create burnout. Reward sustainable work.
 
-3. **Invest in infrastructure**. Tooling, testing, monitoring, documentation, automation. Feel expensive until you calculate burnout cost: replacement, knowledge loss, quality debt.
+3. **Invest in infrastructure**. Tooling, testing, monitoring, documentation, automation cost less than burnout: replacement, knowledge loss, quality debt.
 
-4. **Stop pretending unlimited PTO is generous**. Track actual time off. If it's 15 days/year average, cap it at 15. If it's 5, admit it. Transparency matters.
+4. **Track actual PTO**. If it's 5 days/year, admit it. Unlimited PTO masks underuse. Transparency matters.
 
-5. **Protect on-call from becoming unmanageable**. Not every engineer on-call every week. Rotations that feel safe. Postmortems that don't blame. Compensation that reflects cost.
+5. **Protect on-call**. Not every engineer every week. Safe rotations. Blame-free postmortems. Fair compensation.
 
-6. **Create leadership accountability**. Burnout in your team means you failed at management. Creates real incentive to act.
+6. **Create leadership accountability**. Burnout in your team means you failed. Real incentive to act.
 
-7. **Stop romanticizing hustle**. Yes, sometimes crunch is necessary. But celebrate crunch as exception: "We crunched for 4 weeks to ship, now we're rebuilding for 8." Not permanent state.
+7. **Stop romanticizing hustle**. Crunch is exception, not state: "We crunched 4 weeks, now rebuild 8."
 
-8. **Invest in people stability**. Competitive salary, good benefits, clear growth paths, actual flexibility. These cost less than constant hiring.
+8. **Invest in stability**. Competitive salary, benefits, growth paths, flexibility cost less than constant hiring.
 
-9. **Create feedback mechanisms that matter**. Anonymous surveys only work if actions follow. Someone says "too many meetings"? Cut meetings. Shows feedback creates change. Otherwise trust dies.
+9. **Act on feedback**. "Too many meetings"? Cut meetings. Show feedback creates change. Otherwise trust dies.
 
 ### Warning Signs and Early Intervention
 
 Catching burnout early is cheap. Allowing it to progress costs enormously.
 
-**Early signs**: Declining attendance, poor communication, cynical suggestions, missing enthusiasm, lowered quality thresholds.
+**Early signs**: Declining attendance, poor communication, cynicism, missing enthusiasm, lowered quality.
 
-**Intervention**: One-on-one conversations, psychological safety repair, load reduction. When caught early, these simple interventions work.
+**Intervention**: One-on-ones, psychological safety repair, load reduction. These work when caught early.
 
-**Later signs**: Silent job hunting, knowledge loss, severe quality degradation, physical health impacts.
+**Later signs**: Silent job hunting, knowledge loss, quality degradation, health impacts.
 
-**Intervention**: Usually too late. Someone leaves. Now you're behind. Now pressure increases. Now more people leave.
+**Intervention**: Usually too late. Someone leaves. Pressure increases. More people leave.
 
 ### The Uncomfortable Economics
 
@@ -318,49 +318,46 @@ Organizations accept burnout because costs are diffuse. One departure isn't cata
 
 ### Recovery Is Possible
 
-This chapter's central claim: **burnout is recoverable through specific, applied practices**, but recovery requires changing the system, not just the person.
+**Burnout is recoverable through specific, applied practices**, but recovery requires changing the system, not just the person.
 
-Individual recovery practices work better when teams create conditions for recovery. Team practices work better when organizations enable them. But each level can act independently:
+Each level can act independently:
+- Individuals can protect themselves even in broken systems (harder, but possible)
+- Teams can create health even in unhealthy organizations
+- Organizations build sustainable practices in competitive markets
 
-- An individual can protect themselves even in broken systems (harder, but possible)
-- A team can create health even in unhealthy organizations (they'll exhaust faster, but possible)
-- An organization can build sustainable practices even in competitive markets (they'll be more profitable)
+Recovery frameworks are maps, not guarantees. Your specific burnout came from specific causes. Start with boundaries (individual), acknowledgment (team), or measurement (organization).
 
-Recovery frameworks are maps, not guarantees. Your specific burnout came from specific causes. The framework helps you think through what those causes are and what changes matter.
-
-Start wherever you are. If you're burned out individually, start with boundaries. If you're on a burned-out team, start with acknowledgment. If you're building organizations, start with measurement.
-
-Stop pretending burnout is inevitable and burnout-recovery is impossible. Both are choices.
+Burnout is inevitable only if we choose it. Both burnout and recovery are choices.
 
 ## Chapter 17: The Hidden Cost of Mentorship and Growth
 
-Mentorship is framed as pure good—helping junior developers, investing in talent, building culture. Yet mentorship becomes another pressure point for burnout, especially when it's unstructured and unbounded.
+Mentorship is framed as pure good—helping juniors, investing in talent. Yet it becomes another burnout pressure when unstructured and unbounded.
 
-**The mentorship trap**: Senior developers are often expected to mentor without time allocated. They're assumed to "help people when needed." But mentorship isn't free. A 30-minute mentoring session: 5 mins prep, 30 mins meeting, 10 mins context-recovery after = 45 mins. Multiply by five mentees, weekly requests, and that's nearly 4 hours weekly—often unpaid and untracked.
+**The trap**: Senior developers mentor without allocated time. A 30-minute session: 5 mins prep + 30 mins meeting + 10 mins recovery = 45 mins. Multiply by five mentees weekly: nearly 4 hours—often unpaid and untracked.
 
-**The asymmetry**: Mentorship helps juniors scale faster, which means more work pressure on seniors. Mentees benefit. Organization benefits. Senior developer loses deep work time. Performance reviews sometimes value mentorship, but rarely penalize the work that didn't happen because of it.
+**The asymmetry**: Mentees benefit. Organization benefits. Senior developer loses deep work time. Performance reviews rarely penalize the work that didn't happen.
 
-**Growth expectations**: "There's unlimited learning opportunity here!" means "you're responsible for staying current." Expectation to master emerging tech, attend conferences, read papers, contribute to open source—all added to day job. Growth becomes another permission structure for overwork.
+**Growth as obligation**: "Unlimited learning opportunity" means "you're responsible for staying current." Master emerging tech, attend conferences, read papers, contribute open source—all added to day job.
 
-**Knowledge transfer without succession**: Teaching creates single points of failure. When person leaves, knowledge vanishes unless documented and handed over explicitly. This creates retention through fear, not belonging. The person stays because nobody else knows the systems, creating learned helplessness.
+**Knowledge traps**: Teaching creates single points of failure. When person leaves, knowledge vanishes. This creates retention through fear, not belonging.
 
-**Mentorship as performance pressure**: Junior developers want to be mentored. This is healthy. But when mentorship becomes uncompensated labor for seniors, it's extractive. "You're good at explaining—mentor this person" without adjusting workload or recognition becomes another way to extract value from high performers.
+**Extractive mentorship**: "You're good at explaining—mentor this person" without adjusting workload or recognition is extractive high-performer tax.
 
-**Breaking the mentorship trap**:
+**Breaking the trap**:
 
-1. **Make mentorship explicit and bounded**. If someone mentors, allocate time: "4 hours/week mentorship, 36 hours/week feature work." Make it visible, make it matter in evaluations.
+1. **Make mentorship explicit and bounded**. Allocate time: "4 hours/week mentorship, 36 hours/week features." Make it matter in evaluations.
 
-2. **Systematize knowledge transfer**. Documentation, runbooks, architecture decision records. Mentorship works better when it complements documentation, not replaces it.
+2. **Systematize knowledge transfer**. Documentation, runbooks, architecture records. Mentorship complements documentation, not replaces it.
 
 3. **Rotate mentorship duties**. Not always the same senior person. Spread knowledge, reduce burnout concentration.
 
-4. **Separate growth from overwork**. "Lots of learning opportunity" shouldn't mean "work harder." Growth time is work time. Conference attendance is work time. It's not added opportunity—it's part of the role.
+4. **Separate growth from overwork**. Growth time is work time. Conference attendance is work time. It's part of the role, not added opportunity.
 
-5. **For juniors**: You don't owe constant productivity. You're learning. That learning is valuable and should take time. Question any environment treating learning as overflow work.
+5. **For juniors**: You don't owe constant productivity. Learning is valuable work. Question environments treating learning as overflow.
 
-**The uncomfortable reality**: Some organizations use mentorship language to avoid developing systems and processes. They prefer people-dependent knowledge. When the senior mentor leaves, they realize too late that knowledge went with them. Build systems that don't require heroes.
+**The uncomfortable reality**: Some organizations use mentorship language to avoid building systems. They prefer people-dependent knowledge. When the mentor leaves, knowledge goes too. Build systems that don't require heroes.
 
-Mentorship *can* be generative—genuinely helping people grow while building healthy culture. But it requires structure, recognition, and boundaries. Without these, it's just another way burnout spreads from senior to junior developers.
+Mentorship can be generative—genuinely helping growth while building healthy culture. But it requires structure, recognition, and boundaries. Without these, it's just another way burnout spreads from senior to junior developers.
 
 ## Chapter 18: Burnout By Career Stage
 
@@ -368,116 +365,112 @@ Burnout doesn't look the same across career stages. Each stage has distinct vuln
 
 ### Junior Developer Burnout
 
-**Entry pattern**: Juniors burn out through overextension, not overload. They take on extra work to prove value. "I'll fix that," "I can learn that," "I'll stay late to understand this."
-
-The trap: Everyone says yes when you start. Saying yes seems how you learn. It seems like opportunity. By the time you realize you're drowning, you've already said yes to seven things.
+**Entry pattern**: Juniors burn out through overextension. They take on extra work to prove value: "I'll fix that," "I can learn that," "I'll stay late." Everyone says yes when you start. By the time you realize you're drowning, you've said yes to seven things.
 
 **Specific pressures**:
-- Imposter syndrome amplifies every mistake into proof of incompetence
-- Fear of appearing slow (everyone else seems to know things)
-- Mentors available but mentorship is unpaid labor for seniors, so unofficial/sporadic
-- Expected to be available and eager (flexibility becomes lack of boundaries)
-- Learning burden on top of delivery burden
-- No authority to push back on unrealistic asks
+- Imposter syndrome amplifies mistakes into proof of incompetence
+- Fear of appearing slow
+- Mentorship available but unpaid, so sporadic
+- Flexibility becomes lack of boundaries
+- Learning burden on top of delivery
+- No authority to push back
 
-**Recovery looks like**: Setting boundaries feels like betrayal ("they took a chance on me"). But juniors need permission to: work normal hours, admit confusion, ask for help, refuse extra projects, say "I don't know yet." Recovery requires managers explicitly saying "learning is your job right now, not extras on top of your job."
+**Recovery**: Setting boundaries feels like betrayal. But juniors need permission to work normal hours, admit confusion, ask for help, refuse projects, say "I don't know yet." Managers must explicitly say: "learning is your job right now, not extras."
 
-**Long-term cost**: Burned-out juniors become mid-levels who are cynical, then seniors who protect themselves fiercely. Organizations that burn out juniors lose them before they become valuable.
+**Long-term cost**: Burned-out juniors become cynical mid-levels, then protective seniors. Organizations lose them before they become valuable.
 
 ### Mid-Level Developer Burnout
 
-**Entry pattern**: Mid-level burnout comes from responsibilities expanding faster than authority. You're no longer a junior (so no one helps you). You're not senior enough to set direction or refuse work. You're in the competence danger zone—skilled enough to handle anything, but too junior to say it's too much.
+**Entry pattern**: Responsibilities expand faster than authority. You're no longer junior (no help). Not senior enough to refuse work. Competence danger zone—skilled enough to handle anything, but too junior to say it's too much.
 
-The trap: Mid-level is when you're genuinely high-value (experienced enough to be effective, not senior enough to be expensive). Organizations push hardest here.
+Mid-level is when you're genuinely high-value (experienced, not expensive). Organizations push hardest here.
 
 **Specific pressures**:
-- Expected to mentor juniors (unpaid labor) while delivering features
-- Interviews, training, code review load—all untracked
-- Visible enough to be blamed for failures, not visible enough to control conditions
-- Trap of being "reliable"—once you deliver under pressure, it becomes expectation
-- Career ambiguity (path to senior unclear, lateral moves feel like failure)
-- Financial obligations (mortgage, kids) reduce flexibility to leave
+- Mentor juniors (unpaid) while delivering
+- Interviews, training, code review—all untracked
+- Blamed for failures, can't control conditions
+- "Reliable" becomes permanent overload expectation
+- Career ambiguity (path to senior unclear)
+- Financial obligations reduce flexibility to leave
 
-**Recovery looks like**: Mid-levels have leverage but don't know it. You can insist on non-negotiables. Your departure costs significantly. Recovery requires recognizing: "I'm valuable, not desperate. I can set conditions or leave." This is psychologically hard after junior-era scarcity mindset.
+**Recovery**: Mid-levels have leverage but don't know it. You can insist on non-negotiables. Your departure costs significantly. Recovery means recognizing: "I'm valuable, not desperate. I can set conditions or leave."
 
-**Long-term cost**: Burned-out mid-levels leave or promote into burnout (now as managers). Companies lose the most productive stage.
+**Long-term cost**: Burned-out mid-levels leave or promote into burnout (as managers). Companies lose the most productive stage.
 
 ### Senior Developer Burnout
 
-**Entry pattern**: Senior burnout feels different—often invisible. You're compensated well, your status is high, you "should" be happy. But invisibility of suffering creates isolation.
+**Entry pattern**: Senior burnout feels invisible. You're well-compensated, high-status, "should" be happy. But suffering is hidden and isolating.
 
-Senior burnout often comes from: being solely responsible for critical systems, mentorship load (everyone wants your time), forced people management (you want to code, you're forced to manage), fighting for sanity while younger people see you as settled-in.
+Sources: solely responsible for critical systems, mentorship load (everyone wants your time), forced people management (want to code, forced to manage), fighting for sanity while younger people see you as settled-in.
 
-The trap: Seniority is golden cage. You're too expensive to hire into elsewhere. You have too much institutional knowledge. You can't just leave. Everyone depends on you.
+The trap: Seniority is golden cage. Too expensive to hire elsewhere. Too much institutional knowledge. You can't just leave. Everyone depends on you.
 
 **Specific pressures**:
-- Burnout manifests as cynicism and learned helplessness, not overwork (you control hours)
-- You stop fighting for things because you've fought every fight before
-- Mentorship becomes extraction because you're the only one who knows things
+- Manifests as cynicism and helplessness, not overwork (you control hours)
+- Stop fighting because you've fought every fight
+- Mentorship becomes extraction (you're the only one who knows)
 - Cultural expectations: seniors model "this is just how it is"
 - Exit is scary (age bias, market value unclear, golden handcuffs)
 
-**Recovery looks like**: Seniors need permission to stop mentoring, to simplify responsibilities, to insist on working on things they choose. Recovery also means: teaching others, building systems not dependent on you, or leaving if conditions won't change. Seniors who burn out often need permission to do less and care less, not more.
+**Recovery**: Need permission to stop mentoring, simplify responsibilities, work on what you choose. Teaching others, building non-dependent systems, or leaving. Often need permission to do less and care less.
 
-**Long-term cost**: Burned-out seniors create cultures of cynicism. Juniors and mid-levels see them and think "this is where it leads." Organizations lose moral weight and leadership.
+**Long-term cost**: Burned-out seniors create cynicism. Juniors and mid-levels think "this is where it leads." Organizations lose moral weight and leadership.
 
 ### The Career Stage Trap
 
-Organizations often engineer this:
+Organizations often engineer this pattern:
 - Hire juniors (cheap, eager, disposable)
-- Burn them out, extract value
-- Keep mid-levels in competence danger zone (they stay because growth path is unclear, leaving feels risky)
-- Rely on seniors for glue and institutional knowledge while loading mentorship onto them
+- Extract value through burnout
+- Keep mid-levels in competence danger zone (growth path unclear, leaving feels risky)
+- Load mentorship onto seniors while relying on their institutional knowledge
 
-This structure guarantees burnout because it's built into the system. Each stage has incentives to extraction at that level.
+This structure guarantees burnout. Each stage has extraction incentives built in.
 
-Breaking it requires: protecting juniors with boundaries, giving mid-levels clear paths and authority, allowing seniors to actually limit scope. Organizations that do this retain people through stages. Organizations that don't have permanent churn and permanent pressure.
+Breaking it requires: protecting juniors with boundaries, giving mid-levels clear paths and authority, allowing seniors to limit scope. Organizations that do this retain people. Organizations that don't have permanent churn.
 
 ## Chapter 19: The Specialization-Generalism Burnout Trap
 
-Modern tech creates a peculiar bind: be a specialist in one area, you become a bottleneck; be a generalist, you're forever learning and never expert.
+Modern tech creates a bind: specialists become bottlenecks; generalists forever learn and never master.
 
-**The specialist path**: Deep expertise in one domain—systems engineering, security, databases—creates value. You become the person. But "the person" means:
-- All problems in that domain route to you
-- You can't take vacation (system breaks without you)
-- Your value and identity fuse
-- You're anxious about becoming irrelevant in a fast-moving field
-- You're responsible for mentoring others in your domain (another unpaid load)
+**The specialist path**: Deep expertise—systems, security, databases—creates value. You become the person. But "the person" means:
+- All problems route to you
+- Can't take vacation (system breaks)
+- Value and identity fuse
+- Anxious about becoming irrelevant
+- Responsible for mentoring in your domain (unpaid)
 
-Specialists often burn out from bottleneck status, not overwork. The work might be manageable hours, but the *responsibility weight* is crushing. You feel held hostage by institutional knowledge.
+Specialists burn out from bottleneck status, not overwork. Responsibility weight is crushing. You feel held hostage by institutional knowledge.
 
-**The generalist path**: Accepting that you need to handle any problem—frontend, backend, DevOps, databases, mobile. The burnout comes from:
-- Perpetual inadequacy (you're never expert in anything)
-- Constant learning (new frameworks, new tools, shifting paradigms)
+**The generalist path**: Handle any problem—frontend, backend, DevOps, mobile. Burnout comes from:
+- Perpetual inadequacy (never expert in anything)
+- Constant learning (new frameworks, tools, paradigms)
 - No depth to retreat to
-- Imposter syndrome amplified (you're 6 months away from competence in six different areas)
-- Unclear what "good" even looks like when you're learning constantly
+- Imposter syndrome amplified (6 months from competence in six areas)
+- Unclear what "good" looks like while learning constantly
 
-Generalists often burn out from perpetual incompleteness—the work is never "done" because you're always climbing learning curves.
+Generalists burn out from perpetual incompleteness.
 
-**The middle way (usually worst)**: Organizations expect specialists to generalize and generalists to specialize. You need to be the database expert *and* frontend capable *and* ready to jump into unfamiliar code. This creates oscillating pressure: specialize in your area (maintain expertise, become bottleneck) or generalize (maintain irrelevance, maintain anxiety).
+**The worst middle**: Organizations expect specialists to generalize and generalists to specialize. Be database expert *and* frontend capable *and* ready for unfamiliar code. Oscillating pressure: specialize (become bottleneck) or generalize (maintain anxiety).
 
-**Why this matters**: The career stage chapters discuss junior-to-senior trajectories, but specialization-generalism is orthogonal. You can be a specialized junior (deep backend focus) or generalist senior (can work anywhere). Each combination has different burnout triggers.
+**The intersection matters**: A senior specialist is uniquely vulnerable—irreplaceable, and the organization knows it. Burnout comes from knowing they can't leave.
 
-A senior specialist is uniquely vulnerable: high status, deep expertise, irreplaceable, and the organization knows it. They burn out not from being pushed hard, but from knowing they can't leave.
-
-A junior generalist is learning too many things and failing in all of them. They burn out thinking this is normal, that everyone feels this lost.
+A junior generalist is failing in six areas simultaneously. They burn out thinking this is normal.
 
 **Breaking the trap**:
 
-1. **Make role expectations explicit**. Is this role specialist or generalist? Both? For how long? Not "this person should know everything"—"this person specializes in X, supports Y, growing in Z." Clear lanes reduce anxiety.
+1. **Make expectations explicit**. Is this role specialist or generalist? For how long? "Specializes in X, supports Y, growing in Z." Clear lanes reduce anxiety.
 
-2. **Protect specialists from pure bottleneck status**. If one person is irreplaceable, that's a failure. Invest in cross-training. Have a specialist do *some* mentoring, but not all. Create documented runbooks. Specialists shouldn't carry rescue-hero burden alone.
+2. **Protect specialists from pure bottleneck status**. One irreplaceable person is a failure. Cross-train. Create documented runbooks. Specialists shouldn't carry rescue-hero burden alone.
 
-3. **For generalists, create areas of ownership**. Even in generalist roles, people need depth somewhere. Let developers pick a domain they're responsible for. Depth and breadth both matter; just not equally in all areas.
+3. **For generalists, create ownership areas**. Even in generalist roles, people need depth somewhere. Pick a domain you're responsible for. Depth and breadth both matter, just not equally.
 
-4. **Stop treating specialization as career limitation**. "You need to generalize to advance" is common lie. Some people advance by deepening expertise. Some become distinguished engineers by being world-class in one domain. Career paths should include both.
+4. **Stop treating specialization as career limitation**. "Generalize to advance" is a lie. Some become distinguished engineers by deepening expertise. Career paths should include both.
 
-5. **For specialists considering generalization**: Recognize that deepening expertise *is* career growth. You don't have to become full-stack to matter.
+5. **Specialization is growth**. You don't need full-stack to matter.
 
-6. **For generalists seeking stability**: Find a domain to anchor in. Not total specialization—but an area where you have enough depth to stop feeling lost.
+6. **Find an anchor domain**. Not total specialization—but enough depth to stop feeling lost.
 
-The tension between specialization and generalism is real and legitimate. Organizations that pretend it doesn't exist create burnout by forcing false choices. Good organizations let people choose where they want depth and where they're comfortable being broad.
+Organizations that pretend this tension doesn't exist create burnout through false choices. Good organizations let people choose their depth.
 
 ## Afterword: Burnout is a Choice
 
@@ -485,7 +478,7 @@ This book argues burnout isn't inevitable—it's choices by individuals, teams, 
 
 Not comforting if burning out now. But important: if burnout is a choice, non-burnout is also a choice.
 
-Some organizations choose extraction over sustainability. Some teams optimize for velocity over wellbeing. The trap is believing this universal. It's not.
+Some organizations choose extraction. Some teams optimize for velocity over wellbeing. The trap is believing this universal. It's not.
 
 Sustainable organizations exist. Healthy teams exist. Non-burned developers exist.
 
