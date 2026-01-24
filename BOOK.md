@@ -364,6 +364,46 @@ Senior specialists are uniquely vulnerable—irreplaceable, can't leave. Junior 
 4. **Don't penalize specialization**: Distinguished engineers deepen expertise, not generalize.
 5. **Let people choose depth**: Good organizations acknowledge this tension and allow choice.
 
+## Chapter 20: The Relational Fracture - Burnout as Isolation
+
+Burnout appears individual but is profoundly social. It damages relationships, erodes trust, and creates isolation that deepens the crisis.
+
+### The Withdrawal Pattern
+
+Burned-out developers withdraw: skip social time, become irritable, offer only yes/no responses. This reads as coldness. Team resents absence. Person feels lonely. Cynicism spreads as protective mechanism but contaminates others.
+
+**Emotional unavailability**: Too depleted to care about others. Respond with irritation instead of empathy. They feel abandoned. You feel guilty. Communication breaks down.
+
+### The Isolation Spiral
+
+Isolation amplifies burnout. Alone, you can't reality-test thoughts. Support evaporates. Shame deepens. Burnout + isolation reinforce each other.
+
+### Reputational Damage
+
+Burned-out developers get labeled: "unmotivated," "difficult," "disengaged." Once assigned, these labels stick. Lose high-leverage work. Isolation increases. Cynicism deepens. Label confirmed.
+
+**The cost**: Recovery requires energy to rebuild reputation you didn't intend to damage.
+
+### Managers and Cascading Damage
+
+Burned-out managers withdraw from support. Teams feel unsupported. Managers feel guilty and retreat more. Or they become extractive—strict about hours, responsive, using control to manage anxiety. Teams sense it. Trust collapses.
+
+### Recovery Requires Repair
+
+Recovery means fixing relationships damaged while burned out. Acknowledging withdrawal. Being vulnerable. Rebuilding trust slowly.
+
+**Path forward**: Acknowledge the distance, explain without excuse, show change through presence and listening, reset expectations about boundaries, rebuild patiently.
+
+### Prevention Through Relational Strength
+
+Teams with strong relationships are more resilient. Not because conditions are easier, but because struggles aren't secret shames. Support is automatic. People feel valued.
+
+**Build this**: Regular one-on-ones (real conversations), normalize struggle, protect social time, celebrate wins, say explicitly "we're in this together."
+
+### Sometimes Exit Is the Answer
+
+After severe burnout, some relationships are damaged beyond repair. That person is associated with pain. In those cases, recovery means leaving—finding people who see you differently. This is valid.
+
 ## Afterword: Burnout is a Choice
 
 Burnout isn't inevitable—it's choices. If burnout is chosen, non-burnout is too.
