@@ -4,7 +4,7 @@ Automated article generation to maintain GitHub activity and learn about instruc
 
 ## Purpose
 
-This repository uses Claude Code (via Kubernetes CronJob every once in awhile) to write an article about **developer burnout**. Each invocation must contribute to BOOK.md.
+This repository uses Claude Code (via Kubernetes CronJob every once in awhile) to write an article about **developer burnout**. Each invocation must contribute to ARTICLE.md.
 
 ## Article Theme
 
@@ -12,14 +12,14 @@ Developer burnout - complete creative freedom within this theme. Build on existi
 
 ## Constraints
 
-1. **BOOK.md must never be completely cleared** - there must always be content for the next invocation to build upon
+1. **ARTICLE.md must never be completely cleared** - there must always be content for the next invocation to build upon
 2. **Length: 25000 characters +- 5000**
 3. **Every run must change something**
 4. **NEVER EDIT README.md** - no exceptions
 
 ## Instructions for Claude Code
 
-1. Read BOOK.md to understand current content and length
+1. Read ARTICLE.md to understand current content and length
 2. Make thoughtful changes
 3. Commit changes with a descriptive message
 4. Push to main branch
