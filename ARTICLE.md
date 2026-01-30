@@ -417,6 +417,100 @@ Recovery means:
 
 Some developers recover to the same career with rebuilt identity. Others need entirely new paths—some exit tech entirely. Both are valid.
 
+## Chapter 22: The Relapse Trap - Why Recovery Fails
+
+Recovery often fails not at the beginning but in the middle, when initial improvements mask deeper patterns. Understanding relapse helps prevent cycling back into burnout.
+
+### The False Recovery Peak
+
+Burnout recovery has a predictable shape: crisis → stabilization → false recovery → relapse.
+
+**The false recovery peak** occurs 6-8 weeks in. Energy returns. Sleep improves. Work feels manageable. The crisis feels solved.
+
+But this isn't recovery. This is just the acute phase ending. The structures that caused burnout remain. Decisions made in crisis clarity feel less urgent now.
+
+This is when people make mistakes: return to old hours, accept new projects, skip breaks. The temptation is enormous—you feel better, so you must be better, so you can handle more.
+
+### The Three Relapse Patterns
+
+**Gradual creep**: Boundaries soften. One late night becomes weekly. Weekends "just for urgent things." Deep work time disappears through paper cuts. Six months later, you're back in crisis, confused how it happened.
+
+**The trigger event**: An incident, deadline, or organizational change reactivates old patterns. You handle it "just this once." But "just this once" becomes norm. You've relapsed before realizing it.
+
+**The identity trap**: You feel better, so you're fixed, so you should be able to handle what you handled before. This creates pressure to perform at old capacity, proving recovery is complete. The pressure recreates burnout.
+
+### Why Relapse Happens
+
+Recovery feels like you're done. You're not. You're learning to manage the symptoms while the disease continues.
+
+**Real recovery requires**: The person changed (understanding triggers, setting boundaries), the team changed (respecting limits, sharing load), the organization changed (incentives, processes, pace).
+
+If only the person changes, the system pressure remains. Eventually, willpower depletes. You relapse.
+
+### The Relapse Inventory
+
+Prevention means knowing your relapse signals. Not generic burnout signs (those are acute crisis). Specific personal ones.
+
+For you, it might be:
+- Checking work email in bed
+- Missing gym twice
+- Terseness in messages
+- Cynical thoughts returning
+- Perfectionism on unimportant work
+
+**Make this explicit**. Write down three relapse signals. Share them with someone. When these appear, it's not failure—it's data. Something needs to change.
+
+### The Sustainable Boundary Framework
+
+Recovery requires boundaries that aren't discipline but design. Not willpower but structure.
+
+**Boundaries that stick**:
+- **Physical**: Remove work from bedroom. Phone in another room after 6PM.
+- **Temporal**: Thursday at 4PM you stop. No exceptions. This is sacred.
+- **Communicative**: Explicit vacation blackout. "I will not be checking email until X date. Contact Y for emergencies."
+- **Cognitive**: Saturday you don't think about work. This requires replacing it—plan another activity.
+- **Relational**: Weekly commitment with someone (friend, partner, therapist) where you report on boundaries.
+
+Boundaries without enforcement are wishes. Enforcement means consequences for violation. If you check email after 6PM, something specific happens (telling your partner, not getting to do something you like tomorrow). Make it uncomfortable to break.
+
+### The Organizational Test
+
+After 3-4 months of recovery, reality-test the organization:
+- Did they hire to cover your work, or expect same output from fewer hours?
+- Did processes improve, or just pressure ease temporarily?
+- Do they measure your value by hours, or by quality?
+- Is on-call more humane, or did they forget the commitments made during crisis?
+
+If answers are no, relapse is likely. You can't sustain recovered boundaries in extractive systems. Eventually, you'll choose leaving over cycling back in.
+
+### The Unspoken Cost
+
+Recovering from burnout, relapsing, and recovering again is traumatic. Each cycle damages trust in yourself and the organization. By cycle three, people often leave entirely.
+
+The cost of relapse isn't just the months of recovery gained back. It's psychological—proving to yourself you can't trust your own judgment or the organization's commitments.
+
+This is why prevention is structurally important. Every relapse represents system failure, not person failure.
+
+### Sustainability Requires Community
+
+Maintaining recovery alone is nearly impossible. You need:
+- One person who will tell you the hard truth when relapse signals appear
+- A community of people with boundaries (so you don't feel alone in them)
+- Permission to say "I'm struggling" without shame
+- Accountability to someone besides yourself
+
+This might be a therapist, a trusted friend, a peer support group, or a manager who actually cares. But isolation + recovery = failure.
+
+### The Long Game
+
+Sustainable recovery isn't dramatic. It's boring. You maintain boundaries even when nothing's wrong. You protect time even when busy. You say no even when there's room to say yes.
+
+This works because you're not relying on crisis-forged willpower. You're living in a way that prevents crisis.
+
+The question after recovery isn't "can I go back to unsustainable pace?" It's "who do I want to become and what needs to be true about my work to support that?"
+
+Recovery works when you stop trying to recover and start living differently.
+
 ## Afterword: Burnout is a Choice
 
 Burnout isn't inevitable—it's choices. If burnout is chosen, non-burnout is too.
